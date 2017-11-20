@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+
+	<fields>
+		<field name="Name_First">
+			<value>John</value> 
+		</field>
+		<field name="Name_Last">
+			<value>Doe</value> 
+		</field>
+		<field name="Name_Middle">
+			<value>A</value> 
+		</field>
+		<field name="Sex">
+			<value>MALE</value> 
+		</field>
+		<field name="BACHELORS DEGREE">
+			<value>On</value> 
+		</field>
+		<field name="Birthdate">
+			<value>1/1/1970</value> 
+		</field>
+	</fields>
+	
+	<ids original="6F185C876244254CBA5693F8CDC7D0AA" modified="25576F3D95DBC54B87BDFC8CCAAE408D"/>
+
+</xfdf>
